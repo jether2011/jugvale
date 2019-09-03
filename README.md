@@ -54,6 +54,7 @@ aqui, explicar os padrões do link do microservices.io (não todos, os principai
 #### 7. MSA com Spring Cloud
 
   7.1. Apresentação de todos as funcionalidades que atendem padrões de MSA citados acima  
+  7.2. Desvantagem de implementacao de uma MSA com framework
   
 #### 8. MSA sem Spring Cloud
 
