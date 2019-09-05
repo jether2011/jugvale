@@ -45,6 +45,7 @@ aqui, explicar os padrões do link do microservices.io (não todos, os principai
   
   6.1. Protocolo HTTP (https) e gRPC, exposição e integração (API Gateway + API Composer, contratos)
   https://medium.com/quick-mobile/melhorando-o-desempenho-de-microservices-com-grpc-31bd67d210e7
+  
   https://grpc.io
   
   6.2. JSON + Estilo arquitetural RESTFul + Verbos HTTP (PUT, POST, DELETE, PATCH e GET e como cada um deve ser utilizado)
