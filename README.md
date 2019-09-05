@@ -49,6 +49,7 @@ aqui, explicar os padrões do link do microservices.io (não todos, os principai
   https://grpc.io
   
   6.2. JSON + Estilo arquitetural RESTFul + Verbos HTTP (PUT, POST, DELETE, PATCH e GET e como cada um deve ser utilizado)
+  https://restfulapi.net/http-methods/
   
   6.3. Confiabilidade com HTTPS, Integrabilidade (autenticação e autorização)
   
